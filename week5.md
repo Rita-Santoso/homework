@@ -12,11 +12,16 @@ In 1990, Tim Berners-Lee developed a system designed to simplify navigation on t
 #### Machine Learning: Background Research
 
 Machine learning is a method of data analysis that automates analytical model building. It is a branch of artificial intelligence based on the idea that systems can learn from data, identify patterns and make decisions with minimal human intervention.
+
 Online recommendation offers such as those from Amazon and Netflix- Machine learning applications for everyday life.
 Knowing what customers are saying about you on Twitter- Machine learning combined with linguistic rule creation.
 Fraud detection- One of the more obvious, important uses in our world today.
 Websites recommending items you might like based on previous purchases are using machine learning to analyze your buying history.  Retailers rely on machine learning to capture data, analyze it and use it to personalize a shopping experience, implement a marketing campaign, price optimization, merchandise supply planning, and for customer insights.   
+
 In 1963, Donald Michie creates a 'machine' consisting of 304 match boxes and beads, which uses reinforcement learning to play Tic-tac-toe (also known as noughts and crosses).
+
 In 1989, Christopher Watkins develops Q-learning, which greatly improves the practicality and feasibility of reinforcement learning.
+
 ImageNet is a large visual database envisioned by Fei-Fei Li from Stanford University, who realized that the best machine learning algorithms wouldn't work well if the data didn't reflect the real world. For many, ImageNet was the catalyst for the AI boom of the 21st century.
+
 In 2016, Google's AlphaGo program becomes the first Computer Go program to beat an unhandicapped professional human player using a combination of machine learning and tree search techniques. Later improved as AlphaGo Zero and then in 2017 generalized to Chess and more two-player games with AlphaZero.
