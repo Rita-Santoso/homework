@@ -8,11 +8,11 @@
 The image is a sketch of the timeline of the piece to plan it beforehand.
 I want to make a video or gif that shows a
 neuron reassembling into an artificial
-neuron. The piece will reflect the
-transition of society from a natural state
-to heavy reliance on technology and machine learning.
+neuron. The piece reflects the modern societal
+transition from a natural state of thinking
+to a heavy reliance on technology and machine learning.
 It also shows the complexity of a biological
-neuron compared to the simplicity of an
+neuron versus the simplicity of an
 artificial one.
 
 ![In Progress Sketch](in_progress.jpg)
