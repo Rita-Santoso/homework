@@ -15,4 +15,4 @@ It also shows the complexity of a biological
 neuron versus the simplicity of the
 artificial one.
 
-![In Progress Sketch](in_progress.jpg)
+![In Progress Sketch](in_progress.JPG)

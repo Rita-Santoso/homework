@@ -6,5 +6,5 @@ This is called supervised feature learning.
 
 ![Research Image](research.jpg)
 ![Research Description](research.md)
-![In Progress Sketch](in_progress.jpg)
+![In Progress Sketch](in_progress.JPG)
 ![In Progress Description](in_progress.md)
