@@ -14,3 +14,5 @@ to heavy reliance on technology and machine learning.
 It also shows the complexity of a biological
 neuron compared to the simplicity of an
 artificial one.
+
+![In Progress Sketch](in_progress.jpg)
