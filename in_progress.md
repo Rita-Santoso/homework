@@ -1,4 +1,9 @@
-No title yet, 4/3/19, digital drawing gif 
+### In Progress
+
+- No title yet
+- 4/3/19
+- digital drawing gif
+- 2"x6"
 
 The image is a sketch of the timeline of the piece to plan it beforehand.
 I want to make a video or gif that shows a
