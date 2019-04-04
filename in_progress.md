@@ -12,7 +12,7 @@ neuron. The piece reflects the modern societal
 transition from a natural state of thinking
 to a heavy reliance on technology and machine learning.
 It also shows the complexity of a biological
-neuron versus the simplicity of an
+neuron versus the simplicity of the
 artificial one.
 
 ![In Progress Sketch](in_progress.jpg)
