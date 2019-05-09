@@ -12,4 +12,3 @@ This is called supervised feature learning. It's also used for speech, handwriti
 ![Research Description](research.md)
 ![In Progress Sketch](in_progress.JPG)
 ![In Progress Description](in_progress.md)
-![Final Project](KT007 Tell Me a Story.pdf)
