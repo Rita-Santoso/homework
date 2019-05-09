@@ -8,7 +8,7 @@ Hidden layers can find features within the data and allow following layers to op
 This is called supervised feature learning. It's also used for speech, handwriting, and face recognition.
 
 
-![Research Image](research.jpg)
+![Research Image](research1.jpg)
 ![Research Description](research.md)
 ![In Progress Sketch](in_progress.JPG)
 ![In Progress Description](in_progress.md)
